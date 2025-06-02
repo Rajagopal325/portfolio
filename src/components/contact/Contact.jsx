@@ -47,14 +47,14 @@ const Contact = () => {
           <div className="contact__cards grid">
             <div className="contact__card">
               <h3 className="contact__card-title">Email</h3>
-              <span className="contact__card-data">venumadhav143n@gmail.com</span>
+              <span className="contact__card-data">rajagopalmbu@gmail.com</span>
               <a href="mailto:venumadhav143n@gmail.com" className="contact__button">
                 Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>
             <div className="contact__card">
               <h3 className="contact__card-title">Telegram</h3>
-              <span className="contact__card-data">@venumadhav</span>
+              <span className="contact__card-data">@Rajagopal</span>
               <a href="https://t.me/vm_mt" target="_blank" rel="noreferrer" className="contact__button">
                 Chat with me <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>

@@ -4,19 +4,19 @@ import './portfolio.css';
 const Portfolio = () => {
   const projects = [
     {
-      title: "LifeConnect",
-      description: "webapp for doctor appointment booking and blood donation portal",
-      link: ""
+      title: "MBU Website",
+      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error tenetur at necessitatibus optio. Id ratione culpa quidem, voluptate odit...",
+      link: "https://rajagopal-mbu-website.netlify.app/"
     },
     {
-      title: "AI Health Bot",
-      description: "Diagnoses symptoms using AI + NFT",
-      link: "https://github.com/Venu-16/AI-Health-Bot-Medical-NFTs-on-Aptos-"
+      title: "Music Player",
+      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error tenetur at necessitatibus optio. Id ratione culpa quidem, voluptate odit... symptoms using AI + NFT",
+      link: "https://rajagopal-music.netlify.app/"
     },
     {
-      title: "Ai-Travel-Planner",
-      description: "Generates Travelling Plan depending on your intrests",
-      link: "https://github.com/Venu-16/ai-travel-planner"
+      title: "AI Chatbot",
+      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error tenetur at necessitatibus optio. Id ratione culpa quidem, voluptate odit... Travelling Plan depending on your intrests",
+      link: "https://rajagopal-music.netlify.app/"
     }
   ];
 
